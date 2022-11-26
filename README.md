@@ -86,7 +86,7 @@ Indústria Automobilística - GFT
 
 6. Informe seu usuário e senha;
 
-7. No controller de Saler Order você terá acesso ao calculo de preço e venda de veículo;
+7. No controller de Saler Order você terá acesso ao calculo de preço de fabricação e venda de veículo;
 
 8. No controller de Stock você poderá consutar o custo e o valor total de cada peça do estoque assim como o valor total do estoque;
 
