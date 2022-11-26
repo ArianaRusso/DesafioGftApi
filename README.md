@@ -1,5 +1,5 @@
 <h1 align="center">
-Indústria Automobilística - GFT
+Indústria Automobilística - Desafio API - GFT
 </h1>
 
 <br>
@@ -11,7 +11,7 @@ Indústria Automobilística - GFT
 
 <p>Aplicação para controle de venda de veículo, estoque de peças e fornecedores para uma indústria automobilística</p>
 
-<h2> 🤝 Desenvolvedoras - Grupo 4</h2>
+<h2> 🤝 Desenvolvedoras - Grupo 4 </h2>
 
 🔹Ariana Russo
 
@@ -34,23 +34,23 @@ Indústria Automobilística - GFT
 
 ✅ Cadastrar, editar, listar, buscar pelo id e deletar estoque;
 
-✅ Consultar, atravez do id, a quantidade, o custo e o valor total de cada peça do estoque;
+✅ Consultar atraves do id, a quantidade, o custo e o valor total de cada peça do estoque;
 
 ✅ Consultar a quantidade, o custo e o valor total do estoque; 
 
 ✅ Cadastrar, editar, listar, buscar pelo id e deletar veículo de produção própria e importado;
 
-✅ Cadastrar, editar, listar e deletar pedido de venda;
+✅ Cadastrar, editar, buscar pelo id e deletar pedido de venda;
 
 ✅ Consultar o custo de produção do veículo;
 
 ✅ Consultar o valor de venda do veículo;
 
-✅ Cadastrar, editar, listar e deletar usuários informando sua permissão de administrador ou vendedor;
+✅ Cadastrar, editar, listar e deletar usuários (informando sua permissão de administrador ou vendedor);
 
-✅ Registração de acesso somente ao administrador do sistema;
+✅ Restrição de acesso somente ao administrador do sistema;
 
-✅ Pesquisa do endereço atravez do CEP;
+✅ Pesquisa do endereço atraves do CEP;
 
 
 <h2> ⭐️ Tecnologias Utilizadas </h2>
@@ -78,7 +78,7 @@ Indústria Automobilística - GFT
 
 2. Abrir a pasta application.properties e trocar username e password do mysql;
 
-3. Executar o Scrip "desafio api", para popular banco de dados (arquivo gerado pelo MySQL workbench);
+3. Executar o Scrip "desafio-api", para popular banco de dados (arquivo gerado pelo MySQL workbench);
 
 4. Executar o projeto;
 
@@ -89,6 +89,8 @@ Indústria Automobilística - GFT
 7. No controller de Saler Order você terá acesso ao calculo de preço de fabricação e venda de veículo;
 
 8. No controller de Stock você poderá consutar o custo e o valor total de cada peça do estoque assim como o valor total do estoque;
+
+9. Para acessar Sales Order (pedido de venda) será necessário estar com acesso de Seller (vendedor).
 
 
 <h2> !! Acesso a aplicação !! </h2>
