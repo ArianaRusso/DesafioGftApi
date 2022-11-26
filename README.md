@@ -9,7 +9,7 @@ Indústria Automobilística - GFT
 
 <p>Aplicação para controle de venda de veículo, estoque de peças e fornecedores para uma indústria automobilística</p>
 
-<h2> 🤝 Colaboradores - Grupo 4</h2>
+<h2> 🤝 Desenvolvedoras - Grupo 4</h2>
 
 🔹Ariana Russo
 
@@ -51,7 +51,7 @@ Indústria Automobilística - GFT
 ✅ Pesquisa do endereço atravez do CEP;
 
 
-<h2> ⭐️ Tecnologias utilizadas </h2>
+<h2> ⭐️ Tecnologias Utilizadas </h2>
 
 ✅ Plataforma: STS - Spring Too Suite;
 
