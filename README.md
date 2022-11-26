@@ -1,6 +1,8 @@
-<h1>
+<h1 align="center">
 Indústria Automobilística - GFT
 </h1>
+
+<h2> Descrição do Projeto </h2>
 
 <p>Projeto desenvolvido para aplicação dos conceitos de API durante o programa Starter Woman da 
 <strong> <a href="https://www.gft.com/br/pt">GFT Brasil</a></strong> 🧡💛</p>
@@ -92,7 +94,12 @@ Indústria Automobilística - GFT
 - biraadmin: 123
 - biravend: 123
 
-<h2> Melhorias Futuras </h2>
+<h2> 🚀 Melhorias Futuras </h2>
+
+✅ Implementação do pedido de venda de peças;
+
+✅ Implementação de alertas de estoque máximo e mínimo;
+
 
 
 
